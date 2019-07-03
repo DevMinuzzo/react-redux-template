@@ -1,0 +1,19 @@
+{
+  "PORT": {
+    "local-hg": 8000,
+    "local-hti": 8000,
+    "local-prd": 8000,
+    "hg": 8000,
+    "hti": 8000,
+    "hk": 8000,
+    "prd": 8000
+  },
+  "EXEMPLO": {
+    "local-hg": "exemplo-local-hg", 
+    "local-hti": "exemplo-local-hti", 
+    "hg": "exemplo-hg", 
+    "hti": "exemplo-hti", 
+    "hk": "exemplo-hk", 
+    "prd": "exemplo-prd"
+  }
+}

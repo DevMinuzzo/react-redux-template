@@ -1,0 +1,5 @@
+dist
+dist-hg
+dist-hti
+node_modules
+*.log

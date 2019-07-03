@@ -1,0 +1,19 @@
+@import "./components/main/_app";
+@import 'bootstrap/scss/bootstrap.scss';
+@import 'bootstrap/scss/bootstrap-reboot.scss';
+
+$fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/solid";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 98vh;
+  width: 98vw;
+  background-color: $bg-color;
+}
